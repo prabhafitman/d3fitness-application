@@ -1,4 +1,4 @@
-# d3fitnessapp
+# from-hope-to-success
 
 This application was generated using JHipster 7.6.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v7.6.0](https://www.jhipster.tech/documentation-archive/v7.6.0).
 
