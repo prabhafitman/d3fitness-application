@@ -1,8 +1,8 @@
 {
-  "name": "d-3-fitnessapp",
+  "name": "Dwarka's Dream & Vision",
   "version": "0.0.1-SNAPSHOT",
   "private": true,
-  "description": "Description for d3fitnessapp",
+  "description": "Description for Dwarka's Dream & Vision",
   "license": "UNLICENSED",
   "scripts": {
     "app:start": "./mvnw",
